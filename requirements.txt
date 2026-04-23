@@ -1,0 +1,4 @@
+google-genai>=1.0.0
+mcp>=1.0.0
+arxiv>=2.1.0
+gradio>=6.0.0
